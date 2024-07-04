@@ -2,7 +2,6 @@ import os
 import cv2
 import gps
 from ultralytics import YOLO
-
 import mysql.connector
 
 def update_coordinates_in_db(lat, lon):
