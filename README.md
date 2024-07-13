@@ -30,7 +30,7 @@ Overview of database
 
 Results
 
-The project showed that YOLOv5n outperformed YOLOv8n in detecting potholes, with better precision and recall metrics. Detailed results and performance metrics are documented in the results folder.
+The project detecte ppotholes using YOLOv8n in detecting potholes, with better precision and recall metrics. Detailed results and performance metrics are documented in the results folder.
 
 ![results](https://github.com/rupeshPabba/pothole_detection/assets/96829415/13170001-69a7-4de3-aca4-ffb21e443882)
 
